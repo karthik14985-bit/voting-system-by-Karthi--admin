@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Digital Voting System - Admin Panel",
+  "description": "A standalone web application for administrators to manage candidates, view voting analytics, and audit actions for the Digital Voting System. Data is simulated using the browser's localStorage.",
+  "requestFramePermissions": []
+}
